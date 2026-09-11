@@ -1,0 +1,466 @@
+source,source_id,title,year,rscore,domain_suitable,is_candidate,qc_passed,is_duplicate,task
+openalex,crossref_10.1186_s12859-022-04642-w,Su and Vijay‑Shanker BMC Bioinformatics (2022) 23:120 BMC Bioinformatics,2024,0.32,True,True,True,False,question_answering
+openalex,semantic_scholar_2d63f23b2b9d752014e15484103c1e90cca25b35,STORSEISMIC: A NEW PARADIGM IN DEEP LEARNING FOR,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_5d34881ff68bd203ff790187e7e5c9e034389cfa,FastBERT: a Self-distilling BERT with Adaptive Inference Time,2024,0.24,True,True,True,False,text_classification
+arxiv,arxiv_2603.05314v1,PersianPunc: A Large-Scale Dataset and BERT-Based,2024,0.45,True,True,True,False,text_classification
+arxiv,arxiv_2602.21165v1,AdvanceAccessPublicationDate:DayMonthYear,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_33172567ab1dff9ca32c8d995d88bbff466f3236,Integrating Multimodal Information in Large Pretrained Transformers,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.02446v1,An Ensemble Classification Approach in A,2024,0.54,True,True,True,False,ner
+arxiv,arxiv_2509.19750v1,Cuffless Blood Pressure Prediction from Speech Sentences using,2024,0.64,True,True,True,False,text_classification
+arxiv,arxiv_2512.01460v1,Enhancing BERT Fine-Tuning for Sentiment Analysis in Lower-Resourced,2024,0.3,True,True,True,False,text_classification
+arxiv,arxiv_2509.09229v1,Reading Between the Lines: Classifying,2024,0.0,True,True,True,False,text_classification
+openalex,crossref_10.31449_inf.v47i9.5217,https://doi.org/10.31449/inf.v47i9.5217 Informatica 47 (2023) 123–132 123,2024,0.27,True,True,True,False,text_classification
+openalex,crossref_10.31449_inf.v48i1.4839,https://doi.org/10.31449/inf.v48i1.4839 Informatica 48 (2024) 69–78 69,2024,0.57,True,True,True,False,text_classification
+arxiv,arxiv_2602.14635v1,Alignment Adapter to Improve the Performance of Compressed,2024,0.27,True,True,True,False,ner
+openalex,semantic_scholar_795c5774ee1d1efe5c4aa4ff7465374d0e6b3bda,Self-Guided Contrastive Learning for BERT Sentence Representations,2024,0.38,True,True,True,False,semantic_similarity
+arxiv,arxiv_2509.23861v1,Investigating Multi-layer Representations for Dense Passage Retrieval,2024,0.34,True,True,True,False,question_answering
+openalex,semantic_scholar_4ce2ceb4ee975b032578e8816cb8f50a9984c76e,"ADAPTINGGPT,GPT-2ANDBERTLANGUAGEMODELSFORSPEECHRECOGNITION",2024,0.2,True,True,True,False,relation_extraction
+openalex,semantic_scholar_65be695739d0fa35212e49ccccd129535e6d9e15,Understanding tables with intermediate pre-training,2024,0.15,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_75c642ebdcfbd4c16d6c3161130b72ff9af5c311,Three things everyone should know,2024,0.31,True,True,True,False,text_classification
+arxiv,arxiv_2509.11056v1,BERT4beam: Large AI Model Enabled Generalized,2024,0.49,True,True,True,False,relation_extraction
+arxiv,arxiv_2511.07481v1,Comparing Reconstruction Attacks on Pretrained,2024,0.2,True,True,True,False,text_classification
+openalex,semantic_scholar_59fa0a3ac7663ec6d508ceb497d89790a18c2c00,Rethinking Masked Language Modeling for Chinese Spelling Correction,2024,0.05,True,True,True,False,text_classification
+openalex,crossref_10.56028_aetr.5.1.349.2023,Advances in Engineering Technology Research EEMAI 2023,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_80e949e0e58e06c6f4f75ac4a2d7216b0fa1cfb8,Recycling a Pre-trained BERT Encoder for Neural Machine Translation,2024,0.44,True,True,True,False,question_answering
+arxiv,arxiv_2602.08057v1,Weak to Strong: VLM-Based Pseudo-Labeling as a Weakly,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2603.04707v1,Detection of Illicit Content on Online Marketplaces,2024,0.17,True,True,True,False,relation_extraction
+openalex,semantic_scholar_02809fc23aecf33e3ed95b83d1d03b54fb5c3d0a,An Empirical Study of Multi-Task Learning on BERT,2024,0.2,True,True,True,False,relation_extraction
+arxiv,arxiv_2601.04940v1,CurricuLLM: Designing Personalized and Workforce-Aligned Cybersecurity,2024,0.49,True,True,True,False,text_classification
+openalex,semantic_scholar_0bd100685a492501d3f5f82a383edb3b5ded0f06,GREEK-BERT: The Greeks visiting Sesame Street,2024,0.15,True,True,True,False,ner
+openalex,semantic_scholar_1cfd0f08bb7ab449bbccc3d69a62ffbf43a7eb7f,"First Align, then Predict:",2024,0.3,True,True,True,False,relation_extraction
+openalex,semantic_scholar_597959cb5aa02995ddf7be4de00391fdfd099d2b,BERT and fastText Embeddings for Automatic Detection of,2024,0.57,True,True,True,False,relation_extraction
+arxiv,arxiv_2603.00022v1,NOISE REDUCTION IN BERT NER MODELS FOR CLIN-,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_3de9d381813ec99441a55f248c41570410e4062b,Model Compression with Two-stage Multi-teacher Knowledge,2024,0.12,True,True,True,False,question_answering
+arxiv,arxiv_2510.17930v2,Diagnosing Representation Dynamics in NER Model Extension,2024,0.0,True,True,True,False,ner
+arxiv,arxiv_2601.17533v1,Reconstructing Training Data from Adapter-based Federated,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2509.18439v1,Developing an AI framework to automatically detect shared decision-,2024,0.49,True,True,True,False,text_classification
+arxiv,arxiv_2511.02996v1,Preprint. Underreview.,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2602.00405v1,RobustDebias: Debiasing Language Models using Distributionally,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_45bd8878895bc29c7248e20fb75c763be265188b,The 35th Canadian Conference on Artificial Intelligence,2024,0.24,True,True,True,False,text_classification
+openalex,crossref_10.1088_1742-6596_1995_1_012040,Journal of Physics:,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_2a6ed1cf405ea3416141d2a72cc659e522ca4cbc,BERT-Based Combination of Convolutional and,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_1fa819dd252a8feb5350d3cacac3e019e3b8e5c7,Temporal Adaptation of BERT and Performance on Downstream,2024,0.24,True,True,True,False,text_classification
+arxiv,arxiv_2508.21569v1,L3Cube-MahaSTS: A Marathi Sentence Similarity Dataset and Models,2024,0.0,True,True,True,False,natural_language_inference
+arxiv,arxiv_2509.04046v1,A ROBERTA-BASED FUNCTIONAL SYNTAX ANNOTATION,2024,0.39,True,True,True,False,ner
+openalex,semantic_scholar_2435c04832d486975304a094e55ecbab8acf8a5f,"Fast, Effective, and Self-Supervised: Transforming Masked Language",2024,0.45,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_2573af4e13d9a5dddb257d22cd38a600528d9a8b,MobileBERT: a Compact Task-Agnostic BERT,2024,0.18,True,True,True,False,question_answering
+arxiv,arxiv_2602.11163v1,Nested Named Entity Recognition in Plasma,2024,0.07,True,True,True,False,ner
+openalex,crossref_10.17762_ijritcc.v10i1s.5902,International Journal on Recent and Innovation Trends in Computing and Communication,2024,0.0,True,True,True,False,text_classification
+openalex,openalex_https_openalex.org_W3037207300,Should You Fine-Tune BERT for Automated Essay Scoring?,2024,0.15,True,True,True,False,relation_extraction
+arxiv,arxiv_2509.04753v1,"A Study of Large Language Models for Patient Information Extraction: Model Architecture, Fine-",2024,0.07,True,True,True,False,relation_extraction
+openalex,semantic_scholar_3348d6b6729ab080b80b2f5659a29163da816581,Accademia University Press,2024,0.64,True,True,True,False,text_classification
+openalex,semantic_scholar_3645b1b0302be888a02ce8bb79337fe05db0cfe0,A Supervised Word Alignment Method based on Cross-Language Span,2024,0.32,True,True,True,False,question_answering
+arxiv,arxiv_2510.06232v1,Neu-RadBERT for Enhanced Diagnosis of Brain Injuries and,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2604.06894v1,How Does LLM Help Regional CPI Forecast: An,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.01276v1,LLM Based Sentiment Classification From,2024,0.59,True,True,True,False,text_classification
+arxiv,arxiv_2509.19224v1,Systematic Comparative Analysis of Large,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.12850v1,Ethic-BERT: An Enhanced Deep Learning Model,2024,0.3,True,True,True,False,text_classification
+arxiv,arxiv_2511.11108v1,Analysing Personal Attacks in U.S. Presidential Debates,2024,0.3,True,True,True,False,text_classification
+openalex,semantic_scholar_5744f56d3253bd7c4341d36de40a93fceaa266b3,TheThirty-FourthAAAIConferenceonArtificialIntelligence(AAAI-20),2024,0.08,True,True,True,False,question_answering
+openalex,semantic_scholar_2f0a7bcb51a09020656266b2c336ddf017d7d367,UPB at SemEval-2020 Task 12: Multilingual Offensive Language,2024,0.25,True,True,True,False,relation_extraction
+arxiv,arxiv_2510.03502v2,ALHD: A Large-Scale and Multigenre Benchmark,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2512.10968v1,"ProceedingsofMachineLearningResearch302:1–19,2025 DeepLearningIndaba2025",2024,0.37,True,True,True,False,relation_extraction
+arxiv,arxiv_2602.06370v1,Cost-Aware Model Selection for Text Classification:,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2604.13285v1,L2D-Clinical: Learning to Defer for Adaptive Model Selection in,2024,0.6,True,True,True,False,text_classification
+openalex,semantic_scholar_56af3c451396b4e9d7c4d9757d23b4a85cd6ece7,Cluster & Tune: Boost Cold Start Performance in Text Classification,2024,0.39,True,True,True,False,text_classification
+arxiv,arxiv_2603.13655v1,Privacy-Preserving Topic-wise Sentiment Analysis,2024,0.08,True,True,True,False,text_classification
+openalex,semantic_scholar_063f8b1ecf2394ca776ac61869734de9c1953808,AdapterHub: A Framework for Adapting Transformers,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2602.20336v1,Natural Language Processing Models for Robust,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2604.03314v1,CoLA: Cross-Modal Low-rank Adaptation,2024,0.57,True,True,True,False,relation_extraction
+openalex,crossref_10.12732_ijam.v38i5s.334,International Journal of Applied Mathematics,2024,0.57,True,True,True,False,text_classification
+arxiv,arxiv_2602.10119v1,Large Language Models Predict Functional Outcomes,2024,0.37,True,True,True,False,text_classification
+arxiv,arxiv_2509.04077v1,Improving Narrative Classification and Explanation via Fine Tuned,2024,0.45,True,True,True,False,ner
+arxiv,arxiv_2604.09887v1,SemEnrich: Self-Supervised Semantic Enrichment,2024,0.37,True,True,True,False,question_answering
+arxiv,arxiv_2603.18393v1,Where are the Hidden Gems? Applying Transformer,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2604.02377v1,"What Are Adversaries Doing? Automating Tactics,",2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_7a09101ac03b74db501648597fa54e992a0fc84f,TheThirty-FourthAAAIConferenceonArtificialIntelligence(AAAI-20),2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2601.11427v1,Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation,2024,0.16,True,True,True,False,text_classification
+arxiv,arxiv_2604.09849v1,Improving DNS Exfiltration Detection via,2024,0.37,True,True,True,False,text_classification
+openalex,crossref_10.14569_ijacsa.2025.0160544,"(IJACSA) International Journal of Advanced Computer Science and Applications,",2024,0.53,True,True,True,False,text_classification
+openalex,semantic_scholar_097210dc65924f8ce59523faf444e635523dc714,TernaryBERT: Distillation-aware Ultra-low Bit BERT,2024,0.34,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_06a1bf4a7333bbc78dbd7470666b33bd9e26882b,Can You Tell Me How to Get Past Sesame Street?,2024,0.0,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_743d39f81ae653c0d5ebf6e8ef3d0a4d17dfe75e,A BERT-Based Transfer Learning Approach for,2024,0.45,True,True,True,False,text_classification
+arxiv,arxiv_2510.22609v2,"IEEETRANSACTIONSONARTIFICIALINTELLIGENCE,VOL.XX,NO.X,OCTOBER2025 1",2024,0.39,True,True,True,False,text_classification
+arxiv,arxiv_2604.08886v1,Real-Time Toxicity Filtering for Open-Source Code Reviews,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_46ed42e4318e1363a0ec3dde195422cdfecf2017,Phrase-BERT: Improved Phrase Embeddings from BERT with an,2024,0.43,True,True,True,False,question_answering
+arxiv,arxiv_2603.08092v1,Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026,2024,0.3,True,True,True,False,text_classification
+openalex,semantic_scholar_2c871df72c52b58f05447fcb3afc838168d94505,Knowledge Neurons in Pretrained Transformers,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2510.17018v2,CoGate-LSTM: Prototype-Guided Feature-Space Gating for Mitigating,2024,0.24,True,True,True,False,relation_extraction
+arxiv,arxiv_2601.12019v1,Acting Flatterers via LLMs Sycophancy:,2024,0.12,True,True,True,False,text_classification
+openalex,crossref_10.1609_aaai.v35i16.17718,TheThirty-FifthAAAIConferenceonArtificialIntelligence(AAAI-21),2024,0.22,True,True,True,False,text_classification
+arxiv,arxiv_2604.14408v1,ToxiShield: Promoting Inclusive Developer Communication,2024,0.08,True,True,True,False,text_classification
+arxiv,arxiv_2604.16387v1,Large language models for post-publication research evaluation: Evidence from expert,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_07c53193b50aa0b108b14b9edfbef64ea1e9119b,ProceedingsoftheTwenty-EighthInternationalJointConferenceonArtificialIntelligence(IJCAI-19),2024,0.22,True,True,True,False,question_answering
+openalex,semantic_scholar_604200318cc7337ad0f6978ad4976603ce35e7ef,Talebi et al. BMC Medical Informatics and,2024,0.27,True,True,True,False,text_classification
+arxiv,arxiv_2512.05179v1,Fine-Tuning BERT for Domain-Specific Question Answering: Toward,2024,0.1,True,True,True,False,question_answering
+arxiv,arxiv_2512.21390v2,GraviBERT: Transformer-based inference for gravitational-wave,2024,0.25,True,True,True,False,text_classification
+arxiv,arxiv_2602.20749v1,Explicit Grammar–Semantic Feature Fusion for,2024,0.0,True,True,True,False,ner
+arxiv,arxiv_2604.12184v1,TRUST AGENTS: A COLLABORATIVE MULTI-AGENT,2024,0.12,True,True,True,False,ner
+openalex,semantic_scholar_17aa05693a9d3dcbb0ffc7a05be59ef621c4d0d4,Scientometrics (2022) 127:207–231,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_7b37c0a4976c4d2a5a440d494fbb0f3daede2a00,BERxiT: Early Exiting for BERT with,2024,0.12,True,True,True,False,relation_extraction
+arxiv,arxiv_2509.13244v1,Evaluating LLM Alignment on Personality Inference from Real-World Interview,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2512.08061v1,LUNA: LINEAR UNIVERSAL NEURAL ATTENTION WITH,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2604.25853v2,G-Loss: Graph-Guided Fine-Tuning of Language Models,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_14fa6eed1d77cfd8e40c9bf344cd5f0685f394ab,Fight Fire with Fire: Fine-tuning Hate Detectors using Large Samples of,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_3c49a23f72f6337ee68d57911e211fcbbdca6091,Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_4f26132fe5a982f47bba8941dba84cc0d6aa4cbc,RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses,2024,0.08,True,True,True,False,text_classification
+openalex,semantic_scholar_781fa8bb5ab3af8de29b7674e44648aa40bd5e77,This article has been accepted for publication in IEEE Transactions on Network and Service Management. This is the author's version which has not been fully edited and,2024,0.08,True,True,True,False,text_classification
+arxiv,arxiv_2509.23259v1,Fin-ExBERT: User Intent based Text Extraction in Financial,2024,0.56,True,True,True,False,text_classification
+arxiv,arxiv_2511.05310v2,Listening Between the Lines: Decoding Podcast,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_65f788fb964901e3f1149a0a53317535ca85ed7d,Unicoder: A Universal Language Encoder by Pre-training with Multiple,2024,0.12,True,True,True,False,question_answering
+arxiv,arxiv_2511.06051v1,Efficient Hate Speech Detection: A Three-Layer,2024,0.63,True,True,True,False,text_classification
+arxiv,arxiv_2511.07989v2,State of the Art in Text Classification for South Slavic Languages:,2024,0.0,True,True,True,False,text_classification
+openalex,crossref_10.48084_etasr.10625,"Engineering, Technology & Applied Science Research Vol. 15, No. 3, 2025, 22953-22959 22953",2024,0.34,True,True,True,False,text_classification
+openalex,semantic_scholar_2646e1d79a3708aaaa6c38e107fa78e4e8eef8d0,Sustainability Science (2022) 17:969–985,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.10493v2,The Hidden DNA of LLM-Generated JavaScript: Structural,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2511.04195v2,Computational Turing Test Reveals Systematic Differences,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_547dc53aaf3ec60d307556e22cc5c3fe54b95329,Dataset Distillation with Attention Labels for Fine-tuning BERT,2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_6da9a81b75e7ad02867860753d1aa276673a3a77,The Optimal BERT Surgeon: Scalable and Accurate Second-Order,2024,0.4,True,True,True,False,text_classification
+openalex,semantic_scholar_7c26344529a60550220cec832bf3a198552231a9,ArabGlossBERT: Fine-Tuning BERT on Context-Gloss Pairs for WSD,2024,0.19,True,True,True,False,text_classification
+arxiv,arxiv_2509.22345v1,The InviTE Corpus: Annotating Invectives in Tudor English Texts for,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_59da4f7d85967d922b5d674779ffcee06f186c73,Investigation of BERT Model on Biomedical,2024,0.24,True,True,True,False,question_answering
+openalex,semantic_scholar_240b0caabb415578bdea4da7d0a32bdff2e8163f,Editing Factual Knowledge in Language Models,2024,0.45,True,True,True,False,question_answering
+openalex,semantic_scholar_745e4b36a1759177871288cae51fbae0b873b5e5,TheThirty-FourthAAAIConferenceonArtificialIntelligence(AAAI-20),2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_4b3a1a2ccefd58b1e31480606a879e96dd23ef66,Fine-Tuning BERT with Character-Level Noise for,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2511.00797v1,Attention Saturation and Gradient Suppression at Inflection,2024,0.64,True,True,True,False,text_classification
+arxiv,arxiv_2603.27707v1,Low-Rank Adaptation Reduces Catastrophic,2024,0.52,True,True,True,False,text_classification
+arxiv,arxiv_2605.03624v1,Annotation Quality in Aspect-Based Sentiment Analysis: A Case,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.05128v1,ADVANCINGAUTOMATEDSPATIO-SEMANTICANALYSISINPICTUREDESCRIPTION,2024,0.44,True,True,True,False,text_classification
+arxiv,arxiv_2510.15683v1,Mixture of Experts Approaches in Dense Retrieval,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2511.20182v1,"KyrgyzBERT: A Compact, Efficient Language",2024,0.27,True,True,True,False,text_classification
+arxiv,arxiv_2602.21216v1,EQ-5D Classification Using Biomedical,2024,0.3,True,True,True,False,text_classification
+openalex,semantic_scholar_3dfa2d2d7e13eb8b29be6f3bc97f518e94be09e5,It’s Morphin’ Time!,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2602.14009v1,Named Entity Recognition for Payment Data Using,2024,0.49,True,True,True,False,ner
+openalex,semantic_scholar_3554aea851065fb2c8f59dd7b600b330d54c2da7,TheThirty-SixthAAAIConferenceonArtificialIntelligence(AAAI-22),2024,0.22,True,True,True,False,text_classification
+arxiv,arxiv_2511.13885v2,Retrieval-GRPO: A Multi-Objective Reinforcement Learning,2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_261a291a2cc7a29299986c78deabcfe31017d364,EVALUATINGPARAMETER-EFFICIENTTRANSFERLEARNINGAPPROACHESONSURE,2024,0.26,True,True,True,False,text_classification
+arxiv,arxiv_2511.10675v1,Learn to Select: Exploring Label Distribution Divergence for In-Context,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.04213v3,ENHANCINGSPEAKERVERIFICATIONWITHW2V-BERT2.0ANDKNOWLEDGE,2024,0.45,True,True,True,False,text_classification
+arxiv,arxiv_2510.22531v1,Text to Trust: Evaluating Fine-Tuning and LoRA Trade-offs in Language,2024,0.1,True,True,True,False,text_classification
+openalex,semantic_scholar_1aeb3239735e28c7318af096044e48d919ea500b,Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study,2024,0.0,True,True,True,False,ner
+arxiv,arxiv_2509.04942v1,Ontology-Aligned Embeddings for Data-Driven Labour,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.11803v1,From Fuzzy Speech to Medical Insight:,2024,0.0,True,True,True,False,question_answering
+arxiv,arxiv_2604.07054v2,"Sell More, Play Less: Benchmarking LLM Realistic Selling Skill",2024,0.04,True,True,True,False,relation_extraction
+arxiv,arxiv_2510.14824v1,Supervised Fine-Tuning or Contrastive Learning?,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_104b124509e99fe5819bb71329fd2e371971ec3a,Fine-Tuning BERT for Sentiment Analysis of Vietnamese Reviews,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_673e970fd835c7dd1bb1e071c5a37e9df99b7c8e,Intermediate-Task Transfer Learning with Pretrained Models for Natural,2024,0.3,True,True,True,False,text_classification
+openalex,semantic_scholar_0c9d97d2ba489256d4f1760598dc2c7be6d90d96,EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets,2024,0.22,True,True,True,False,question_answering
+arxiv,arxiv_2601.18517v1,GenAI for Social Work Field Education: Client,2024,0.08,True,True,True,False,text_classification
+arxiv,arxiv_2604.09625v1,Toward Generalized Cross-Lingual Hateful Language Detection with,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_5066c41ef26ac9876ba797a7c7f49548cf713f9b,Coreferential Reasoning Learning for Language Representation,2024,0.57,True,True,True,False,text_classification
+openalex,semantic_scholar_46b3ba0f3cb8340bc94f26e0fdf6dc4e38f68948,1v18701.0191:viXra,2024,0.45,True,True,True,False,relation_extraction
+openalex,semantic_scholar_81a774a6935e3c1eaa44cd94b4e95a407baa7b6a,Entity Enhanced BERT Pre-training for Chinese NER,2024,0.16,True,True,True,False,ner
+arxiv,arxiv_2512.00323v1,Comparative Analysis of 47 Context-Based Question,2024,0.0,True,True,True,False,question_answering
+arxiv,arxiv_2510.10774v2,PARSVOICE:ALARGE-SCALEMULTI-SPEAKERPERSIANSPEECHCORPUSFOR,2024,0.12,True,True,True,False,relation_extraction
+openalex,semantic_scholar_5bdfbded52da393eb3f7a0270a4f135bb564ee4a,Effectively Leveraging BERT for Legal Document Classification,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_1cfe781523b4b3469d822bc52a0721b1c70cee5f,www.nature.com/npjcompumats,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_63748e59f4e106cbda6b65939b77589f40e48fcb,Text Summarization with Pretrained Encoders,2024,0.33,True,True,True,False,ner
+arxiv,arxiv_2602.21212v1,Disaster Question Answering with LoRA Efficiency and Accurate End Position,2024,0.64,True,True,True,False,question_answering
+arxiv,arxiv_2601.10043v1,Instruction Finetuning Llama3-8B Model Using LoRA for,2024,0.56,True,True,True,False,ner
+openalex,crossref_10.62712_juktisi.v4i2.585,p-ISSN: 2962-3022 | e-ISSN: 2963-7104,2024,0.1,True,True,True,False,text_classification
+openalex,semantic_scholar_04e96e04ed7ea4916311279a43eede2fb00bb1df,"ReceivedFebruary22,2021,acceptedMarch21,2021,dateofpublicationApril15,2021,dateofcurrentversionApril30,2021.",2024,0.06,True,True,True,False,question_answering
+openalex,semantic_scholar_339b2b711fb5b228d097b03ebc3e62a521779235,BitFit: Simple Parameter-efficient Fine-tuning,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2512.02845v1,Bangla Hate Speech Classification with Fine-tuned Transformer Models,2024,0.57,True,True,True,False,text_classification
+arxiv,arxiv_2603.03884v1,CzechTopic: A Benchmark for Zero-Shot Topic,2024,0.22,True,True,True,False,question_answering
+openalex,semantic_scholar_141ef16c41d7a0ab10e3f8c7ee06d7bdf131976f,Comparative Analysis of Transformers to Support,2024,0.35,True,True,True,False,text_classification
+arxiv,arxiv_2511.00070v1,Benchmarking Generative AI Against Bayesian,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_4bdf8ff566a8c25b23ffe3b94f3eba4c852f4dae,Large-Scale News Classification using BERT Language Model: Spark NLP,2024,0.25,True,True,True,False,text_classification
+openalex,semantic_scholar_512f34906ddaefe885af2e5eec9b2b3b50ffd377,Deep Entity Matching with Pre-Trained Language Models,2024,0.2,True,True,True,False,text_classification
+openalex,semantic_scholar_4dfca987bbf0b87b37f5e3f986276d79acd3212c,Available online at www.HighTechJournal.org,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_5f994dc8cae24ca9d1ed629e517fcc652660ddde,ERNIE: Enhanced Language Representation with Informative Entities,2024,0.24,True,True,True,False,ner
+arxiv,arxiv_2509.04456v1,Mentalic Net: Development of RAG-based,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2602.15897v1,Mitigating Gradient Inversion Risks in Language Models via,2024,0.19,True,True,True,False,text_classification
+arxiv,arxiv_2509.23504v1,AraS2P: Arabic Speech-to-Phonemes System,2024,0.55,True,True,True,False,text_classification
+arxiv,arxiv_2601.04696v1,A Method for Constructing a Digital,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_31c872514c28a172f7f0221c8596aa5bfcdb9e98,"75 Languages, 1 Model: Parsing Universal Dependencies Universally",2024,0.67,True,True,True,False,relation_extraction
+openalex,semantic_scholar_54e267587f4493a6dc600724af03a70d35d3067d,Should You Fine-Tune BERT for Automated Essay Scoring?,2024,0.15,True,True,True,False,relation_extraction
+openalex,semantic_scholar_395de0bd3837fdf4b4b5e5f04835bcc69c279481,BART: Denoising Sequence-to-Sequence Pre-training for Natural,2024,0.0,True,True,True,False,question_answering
+arxiv,arxiv_2509.15048v3,MaiBERT: A Pre-training Corpus and Language Model for,2024,0.22,True,True,True,False,ner
+arxiv,arxiv_2601.20582v1,Single-Nodal Spontaneous Symmetry Breaking in NLP Models,2024,0.18,True,True,True,False,text_classification
+openalex,crossref_10.12720_jait.16.6.854-868,"Journal of Advances in Information Technology, Vol. 16, No. 6, 2025",2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_4d255460872c59661cdf92ba133d1036ffa6752c,DictaBERT: A State-of-the-Art BERT Suite for Modern Hebrew,2024,0.49,True,True,True,False,question_answering
+openalex,semantic_scholar_016760dc4a05489ddf5dbb48aecbb49e214e1b71,Birds have four legs?!,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.01640v1,TransGAT: Transformer-Based Graph Neural Networks,2024,0.12,True,True,True,False,semantic_similarity
+arxiv,arxiv_2511.21711v1,Addressing Stereotypes in Large Language Models: A Critical Examination and Mitigation,2024,0.32,True,True,True,False,text_classification
+arxiv,arxiv_2604.12018v1,LLMs Struggle with Abstract Meaning Comprehension More Than,2024,0.54,True,True,True,False,relation_extraction
+openalex,semantic_scholar_0d47ca35640a170bfa6580405847067a796ccf7d,International Review of Research in Open and Distributed Learning,2024,0.19,True,True,True,False,text_classification
+openalex,semantic_scholar_22dc1223edbdf2e576b47ce51825f3be3a890a65,UHH-LT at SemEval-2020 Task 12: Fine-Tuning of Pre-Trained,2024,0.47,True,True,True,False,text_classification
+openalex,semantic_scholar_3247aed670389069d921b3b200377b109aaaf12b,12 III March 2024,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_6839816cd3ab194dfa3ffe3066cc35d099820e00,Can ChatGPT Understand Too?,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_1b0c8b26affd13e10ace5770e85478d60dcc368e,GOBO: Quantizing Attention-Based NLP Models,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.04750v1,A Low-Resource Speech-Driven NLP Pipeline for Sinhala Dyslexia,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.27552v1,MULTILINGUAL BERT LANGUAGE MODEL FOR MEDICAL,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_6f27ca90bf1e6494399106bec147d8ffc0e99d13,You Only Compress Once: Towards Effective and,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2601.23200v1,Large Language Models for Patent Classification:,2024,0.54,True,True,True,False,text_classification
+openalex,semantic_scholar_7dc21b6c7c02708e4de6c6c260b4439b46fbd086,Improving BERT Fine-Tuning via Self-Ensemble and Self-Distillation,2024,0.41,True,True,True,False,relation_extraction
+arxiv,arxiv_2509.10010v1,Multi-Intent Recognition in Dialogue,2024,0.24,True,True,True,False,question_answering
+openalex,semantic_scholar_79bee63bc21a99dc12dd2725a0c0dcfffa4611ef,Pyramid-BERT: Reducing Complexity via,2024,0.12,True,True,True,False,relation_extraction
+arxiv,arxiv_2509.00731v1,ncoder vs ecoder obust etection of hinese enerated,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.02514v1,Comparative Study of Pre-Trained BERT and Large Language Models,2024,0.24,True,True,True,False,ner
+arxiv,arxiv_2509.23418v2,"Beyond Metadata: Multimodal, Policy-Aware Detection of YouTube Scam Videos",2024,0.0,True,True,True,False,text_classification
+openalex,openalex_https_openalex.org_W4388441035,Information Systems Engineering,2024,0.49,True,True,True,False,text_classification
+arxiv,arxiv_2509.07488v1,Fine-Tuning Vision-Language Models for Visual Navigation Assistance,2024,0.24,True,True,True,False,text_classification
+arxiv,arxiv_2603.26156v1,Article Title: Clash of the models: Comparing performance of BERT-based variants for generic,2024,0.53,True,True,True,False,text_classification
+arxiv,arxiv_2603.28929v1,"Known Intents, New Combinations:",2024,0.49,True,True,True,False,text_classification
+arxiv,arxiv_2604.16376v1,FOUNDATIONAL STUDY ON AUTHORSHIP ATTRIBUTION OF,2024,0.61,True,True,True,False,text_classification
+openalex,crossref_10.1609_aaai.v37i11.26582,TheThirty-SeventhAAAIConferenceonArtificialIntelligence(AAAI-23),2024,0.37,True,True,True,False,text_classification
+arxiv,arxiv_2509.00094v1,Automatic Pronunciation Error Detection and,2024,0.27,True,True,True,False,text_classification
+arxiv,arxiv_2604.17177v1,Decomposing the Depth Profile of Fine-Tuning∗,2024,0.34,True,True,True,False,text_classification
+openalex,semantic_scholar_6d954bd1cba2d59f79d18bb15d5f5e464df2a665,Hate speech detection and racial bias,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2509.09725v1,BIBERT-Pipe on Biomedical Nested Named Entity Linking,2024,0.12,True,True,True,False,ner
+arxiv,arxiv_2604.00878v1,KUET at StanceNakba Shared Task:,2024,0.36,True,True,True,False,text_classification
+arxiv,arxiv_2603.04308v1,Activation Outliers in Transformer Quantization:,2024,0.68,True,True,True,False,text_classification
+arxiv,arxiv_2509.04519v1,Hierarchical Section Matching Prediction (HSMP) BERT for,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2602.20676v1,PRECTR-V2: Unified Relevance–CTR Framework with Cross-User,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2509.14926v3,Patent Language Model Pretraining with ModernBERT,2024,0.14,True,True,True,False,relation_extraction
+arxiv,arxiv_2508.20525v1,Enhancing Health Fact-Checking with LLM-Generated Synthetic Data,2024,0.35,True,True,True,False,natural_language_inference
+arxiv,arxiv_2512.02141v1,Feature Selection Empowered BERT for Detection of,2024,0.24,True,True,True,False,relation_extraction
+arxiv,arxiv_2603.03010v1,Reproducing and Comparing Distillation Techniques for,2024,0.12,True,True,True,False,relation_extraction
+openalex,semantic_scholar_13118d6f2ebab1fbaf2cc187149bafb09d1617db,A Pairwise Probe for Understanding BERT Fine-Tuning on,2024,0.0,True,True,True,False,question_answering
+openalex,semantic_scholar_6a3ed569d47b4ea08aca4f69ec7da5e8d87734b0,Understanding Telecom Language Through Large,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2508.18109v1,Aligning Core Aspects: Improving Vulnerability,2024,0.15,True,True,True,False,text_classification
+arxiv,arxiv_2510.08404v1,ToappearintheConferenceonEmpiricalMethodsinNaturalLanguageProcessing(EMNLP2025)Workshop:,2024,0.19,True,True,True,False,relation_extraction
+openalex,semantic_scholar_441b420a3779707619f479c74cae5a7e88522082,Semi-Siamese Bi-encoder Neural Ranking Model Using,2024,0.49,True,True,True,False,text_classification
+arxiv,arxiv_2511.02340v2,CHRONICKIDNEYDISEASEPROGNOSISPREDICTIONUSINGTRANSFORMER,2024,0.49,True,True,True,False,relation_extraction
+openalex,openalex_https_openalex.org_W4318907268,TopoBERT: Plug and Play Toponym Recognition Module,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_01b1293ddea9bcd6df1185b0b934503de01d6561,Block Pruning For Faster Transformers,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.03407v1,Learning Mechanism Underlying NLP Pre-Training and Fine-Tuning,2024,0.18,True,True,True,False,text_classification
+openalex,semantic_scholar_79926aa63d4daee6af06a8e9a7c2480b31cb7ed9,1v67920.8032:viXra,2024,0.59,True,True,True,False,text_classification
+arxiv,arxiv_2509.16256v1,HausaMovieReview: A Benchmark Dataset for Sentiment,2024,0.34,True,True,True,False,text_classification
+arxiv,arxiv_2509.12514v1,A comparison of pipelines for the translation of a low,2024,0.41,True,True,True,False,text_classification
+arxiv,arxiv_2601.05091v1,Code-Mix Sentiment Analysis on Hinglish Tweets,2024,0.53,True,True,True,False,text_classification
+openalex,semantic_scholar_5a96a270cbc73e3b448c2404ff31670c21da7b49,Efficient Intent Detection with Dual Sentence Encoders,2024,0.28,True,True,True,False,relation_extraction
+arxiv,arxiv_2510.16503v1,Sentiment and Volatility in Financial Markets:,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_30bc3dbd79f222ca769338d30a763cc34690dd41,MeisterMorxrc at SemEval-2020 Task 9: Fine-Tune Bert and Multitask,2024,0.1,True,True,True,False,text_classification
+openalex,semantic_scholar_623a0a4b975452d64d610e28f48822ca500ed93f,TheThirty-EighthAAAIConferenceonArtificialIntelligence(AAAI-24),2024,0.1,True,True,True,False,text_classification
+arxiv,arxiv_2511.12563v1,LOBERT: Generative AI Foundation Model for Limit,2024,0.53,True,True,True,False,text_classification
+openalex,semantic_scholar_4b0088dcef346770c376e3771fcea54877e57eb7,ProceedingsoftheTwenty-NinthInternationalJointConferenceonArtificialIntelligence(IJCAI-20),2024,0.22,True,True,True,False,natural_language_inference
+arxiv,arxiv_2509.04512v1,Scaling behavior of large language models in emotional safety,2024,0.63,True,True,True,False,text_classification
+openalex,semantic_scholar_16a8e329c06b4c6f61762da7fa77a84bf3e12dca,"Model Extraction and Adversarial Transferability,",2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_809cc93921e4698bde891475254ad6dfba33d03b,How multilingual is Multilingual BERT?,2024,0.18,True,True,True,False,ner
+arxiv,arxiv_2509.11570v1,"Bhaasha, Bha¯sa¯, Zaban: A Survey for Low-Resourced Languages in South",2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2603.21803v1,"Timing In stand-up Comedy: Text, Audio, Laughter, Kinesics (TIC-TALK):",2024,0.39,True,True,True,False,text_classification
+arxiv,arxiv_2511.17677v1,A Hybrid Classical-Quantum Fine Tuned BERT for Text Classification,2024,0.24,True,True,True,False,text_classification
+arxiv,arxiv_2509.02908v1,Advancing Minority Stress Detection with,2024,0.39,True,True,True,False,text_classification
+arxiv,arxiv_2509.16903v1,CLaC at DISRPT 2025: Hierarchical Adapters for Cross-Framework,2024,0.61,True,True,True,False,text_classification
+arxiv,arxiv_2512.00630v1,Financial Text Classification Based On rLoRA Finetuning On Qwen3-8B model,2024,0.56,True,True,True,False,text_classification
+arxiv,arxiv_2602.13504v1,FROM PERCEPTIONS TO EVIDENCE: DETECTING AI-GENERATED,2024,0.65,True,True,True,False,text_classification
+openalex,semantic_scholar_0b41c80659e2b8a7a2b84f180a027f10dd55de62,Attention Is All You Need,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_2fe7dba5a58aee5156594b4d78634ecd6c7dcabd,End-to-End Open-Domain Question Answering with BERTserini,2024,0.0,True,True,True,False,question_answering
+arxiv,arxiv_2511.05474v1,OFFICIALREPORT 1,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2604.12218v1,LLM-Enhanced Log Anomaly Detection: A,2024,0.27,True,True,True,False,text_classification
+openalex,crossref_10.24114_cess.v10i2.67219,"CESS (Journal of Computer Engineering, System and Science)",2024,0.62,True,True,True,False,ner
+openalex,semantic_scholar_4bfa4a1a29376f287992c2f02582110750a904bb,Su and Vijay‑Shanker BMC Bioinformatics (2022) 23:120 BMC Bioinformatics,2024,0.32,True,True,True,False,question_answering
+arxiv,arxiv_2511.14606v1,Bridging Human and Model Perspectives: A Comparative Analysis of,2024,0.3,True,True,True,False,text_classification
+arxiv,arxiv_2602.15869v1,Towards Fair and Efficient De-identification: Quantifying the Efficiency,2024,0.39,True,True,True,False,text_classification
+openalex,crossref_10.54097_bs3z2870,Evaluating TF-IDF With Logistic Regression and BERT Fine-,2024,0.57,True,True,True,False,text_classification
+openalex,crossref_10.30871_jaic.v9i2.8989,Journal of Applied Informatics and Computing (JAIC),2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.14254v1,Generalist vs Specialist Time Series Foundation,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_441fa19685f7ba5f5d1b295eec37543a43c09194,Noise Stability Regularization for Improving BERT Fine-tuning,2024,0.22,True,True,True,False,text_classification
+arxiv,arxiv_2508.20944v1,STARE at the Structure: Steering ICL Exemplar Selection with Structural,2024,0.22,True,True,True,False,relation_extraction
+arxiv,arxiv_2604.14815v1,Domain Fine-Tuning FinBERT on Finnish,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2601.18162v1,Fine-Grained Emotion Detection on GoEmotions: Experimental,2024,0.52,True,True,True,False,text_classification
+openalex,semantic_scholar_24e972ed9da2c24d8a331a50f1ae4ae155cfd4ef,ProceedingsoftheTwenty-NinthInternationalJointConferenceonArtificialIntelligence(IJCAI-20),2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2508.18253v2,From BERT to LLMs：Comparing and Understanding,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_634e8ee7e86f253c4b6c722a3bb7c32b7aa3892b,RobBERT: a Dutch RoBERTa-based Language Model,2024,0.39,True,True,True,False,relation_extraction
+arxiv,arxiv_2509.10095v1,Arabic Large Language Models for Medical Text,2024,0.06,True,True,True,False,text_classification
+openalex,semantic_scholar_23756011261f20d411dc4d9bcd3a56b69884a72a,Flooding-X: Improving BERT’s Resistance to Adversarial Attacks,2024,0.24,True,True,True,False,text_classification
+arxiv,arxiv_2510.05129v2,Automated Alignment of Math Items to Content Standards in,2024,0.23,True,True,True,False,text_classification
+arxiv,arxiv_2511.13517v1,Interpretable Ransomware Detection Using Hybrid Large Language Models: A,2024,0.18,True,True,True,False,text_classification
+arxiv,arxiv_2511.17473v1,MASKED-AND-REORDERED SELF-SUPERVISION FOR,2024,0.24,True,True,True,False,text_classification
+arxiv,arxiv_2512.17630v1,Confidence-Credibility Aware Weighted Ensembles of Small,2024,0.75,True,True,True,False,text_classification
+arxiv,arxiv_2509.12130v1,XplaiNLP at CheckThat! 2025: Multilingual Subjectivity,2024,0.3,True,True,True,False,text_classification
+arxiv,arxiv_2603.17522v1,Detecting the Machine:,2024,0.73,True,True,True,False,text_classification
+openalex,semantic_scholar_5d9e9759ec3c9913ab7b4799905b176cea8e452c,"Received13May2023,accepted28May2023,dateofpublication13June2023,dateofcurrentversion21June2023.",2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_83b8108014e3db4f46354a28ae68193f143c4e7e,Structured Pruning of Large Language Models,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_1ad9a295ea841599383e5ae3e88381438d4a7db3,Evaluation of GPT and BERT-based models on identifying protein-,2024,0.53,True,True,True,False,relation_extraction
+openalex,semantic_scholar_5d4de0fa45aeddc31142e6a24666d06ed7923f1e,www.nature.com/npjdigitalmed,2024,0.22,True,True,True,False,text_classification
+arxiv,arxiv_2509.12672v1,Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2603.06492v1,NOBLE: Accelerating Transformers with,2024,0.61,True,True,True,False,text_classification
+openalex,crossref_10.52783_jisem.v10i34s.5869,Journal of Information Systems Engineering and Management,2024,0.34,True,True,True,False,text_classification
+arxiv,arxiv_2604.17674v1,Towards Intelligent Legal Document Analysis:,2024,0.46,True,True,True,False,text_classification
+openalex,semantic_scholar_1c6f94fb3d888167355afb580f04d55cd517ebc6,On the Interplay Between Fine-tuning and Sentence-level Probing for,2024,0.66,True,True,True,False,relation_extraction
+arxiv,arxiv_2603.05462v1,NCTB-QA: A Large-Scale Bangla Educational Question,2024,0.61,True,True,True,False,question_answering
+arxiv,arxiv_2604.08566v1,Sentiment Classification of Gaza War Headlines: A,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2603.05917v2,This work has been submitted to IEEE Access for possible publication.,2024,0.52,True,True,True,False,text_classification
+openalex,semantic_scholar_04359ebee31208dd8cf81656db8376b3ee038e23,SPEECHRECOGNITIONBYSIMPLYFINE-TUNINGBERT,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_61b5fda1416a7c7362e7ff7511fdcd54a82b339a,UM-IU@LING at SemEval-2019 Task 6: Identifying Offensive Tweets,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_3dc34991b758deb0b30dce6653027daa77e0a91b,Cost-Sensitive BERT for Generalisable,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.10937v1,An Interpretable Benchmark for Clickbait,2024,0.0,True,True,True,False,text_classification
+openalex,crossref_10.31436_ijpcc.v11i1.533,"International Journal on Perceptive and Cognitive Computing (IJPCC) Vol 11, Issue 1 (2025)",2024,0.0,True,True,True,False,question_answering
+openalex,semantic_scholar_3ba0b9250d5e91c01eb7cca8269afec23f24c515,Energy and Carbon Considerations of Fine-Tuning BERT,2024,0.39,True,True,True,False,ner
+arxiv,arxiv_2509.26017v2,I. Lynce et al. (Eds.),2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.11056v3,From Reasoning LLMs to BERT: A Two-Stage Distillation,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2511.16106v1,Incorporating Token Importance in Multi-Vector Retrieval,2024,0.31,True,True,True,False,text_classification
+openalex,crossref_10.32604_cmc.2025.059567,TechSciencePress,2024,0.37,True,True,True,False,text_classification
+arxiv,arxiv_2511.14153v1,A Comprehensive Study of Implicit and Explicit Biases in Large Language,2024,0.35,True,True,True,False,relation_extraction
+arxiv,arxiv_2601.01952v1,Context-Adaptive Requirements Defect Prediction through,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2510.22285v1,Supervised Fine-Tuning or In-Context Learning?,2024,0.12,True,True,True,False,ner
+openalex,semantic_scholar_00c5abdffe51ab33e745e6804d4821ca59db52d8,To BERT or Not To BERT: Comparing Speech and Language-based,2024,0.28,True,True,True,False,text_classification
+openalex,semantic_scholar_2e06b7f72270900544284e0898aac2bb564ff58b,Cold-start Active Learning through Self-supervised Language Modeling,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2510.09434v1,Domain-Adapted Pre-trained Language Models for,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_361319cf7d148b0a355b76270f528ff5effd6d00,"(IJACSA) International Journal of Advanced Computer Science and Applications,",2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_21185cf5802a7f7d18a2bb04286f38d618cf0541,Information Systems Engineering,2024,0.49,True,True,True,False,text_classification
+arxiv,arxiv_2509.04139v1,2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC),2024,0.0,True,True,True,False,question_answering
+arxiv,arxiv_2512.22616v1,R : Mining Defensive Patterns in Ethereum via,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2602.23940v1,Benchmarking BERT-based Models for,2024,0.45,True,True,True,False,text_classification
+arxiv,arxiv_2604.08885v1,Uncertainty-Aware Transformers: Conformal Prediction for,2024,0.49,True,True,True,False,ner
+arxiv,arxiv_2604.21034v2,Human-AI Collaboration in Conflict,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2510.18448v1,Real-World Usability of Vulnerability,2024,0.0,True,True,True,False,ner
+arxiv,arxiv_2512.05364v1,Transformer-Enabled Diachronic Analysis of Vedic Sanskrit:,2024,0.07,True,True,True,False,text_classification
+arxiv,arxiv_2601.09026v2,Layer-Parallel Training for Transformers,2024,0.46,True,True,True,False,text_classification
+openalex,semantic_scholar_619c3ab944d7786db3ec4078a6b074a0f70a1987,Using ChatGPT for Entity Matching,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.05617v1,From Joy to Fear: A Benchmark of Emotion,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_3be3146737c4b83cab1b754beafa738c1f941bf0,INNOVATIVE BERT-BASED RERANKING LANGUAGE MODELS FOR SPEECH,2024,0.0,True,True,True,False,question_answering
+openalex,semantic_scholar_82970dd7826bab04331436aa120e6517c6326c9f,Multimodal Emotion Recognition using Transfer Learning from Speaker,2024,0.22,True,True,True,False,text_classification
+arxiv,arxiv_2509.21068v1,"Front. Comput. Sci.,2025,0(0): 1–40",2024,0.42,True,True,True,False,relation_extraction
+arxiv,arxiv_2605.06191v1,Systematic Evaluation of Large Language Models,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2509.16788v1,Domain-Adaptive Pre-Training for Arabic Aspect-Based Sentiment Analysis: A,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_077c713bccd9d2c7fde68d4cbde06ab0f07a6855,ConSERT: A Contrastive Framework for Self-Supervised Sentence,2024,0.37,True,True,True,False,natural_language_inference
+arxiv,arxiv_2512.13654v1,Large-language memorization during the classification of United States,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_40235eded15f44c8c4a7f48468adcc7df4e171fb,Rethinking Network Pruning—,2024,0.12,True,True,True,False,relation_extraction
+openalex,semantic_scholar_616610e0b0a31ab4bac1c64fd0b65c2572185522,BERTnesia: Investigating the capture and forgetting of knowledge in,2024,0.39,True,True,True,False,ner
+arxiv,arxiv_2509.12101v1,In-domain SSL pre-training and streaming ASR:,2024,0.34,True,True,True,False,relation_extraction
+arxiv,arxiv_2604.19508v1,Bangla Key2Text: Text Generation from Keywords for a Low,2024,0.52,True,True,True,False,relation_extraction
+openalex,semantic_scholar_1dd344ce28f1e5a078f9d8396b5078388e555d99,Template-free Prompt Tuning for Few-shot NER,2024,0.12,True,True,True,False,ner
+arxiv,arxiv_2508.19295v1,Large VLM-based Stylized Sports Captioning,2024,0.0,True,True,True,False,relation_extraction
+arxiv,arxiv_2510.22356v1,Irony Detection in Urdu Text: A Comparative,2024,0.39,True,True,True,False,text_classification
+arxiv,arxiv_2603.17217v1,Anonymous-by-Construction: An LLM-Driven,2024,0.07,True,True,True,False,ner
+openalex,semantic_scholar_fe2b861be3e24955fb5cc9d3c7cab1af6f17d9b7,OPI@LT-EDI-ACL2022: Detecting Signs of Depression from Social Media,2024,0.64,True,True,True,False,text_classification
+openalex,semantic_scholar_f28711d5b0f213d8966d97123aa0a031706523bb,Domain Adaptation with BERT-based Domain Classification and Data,2024,0.24,True,True,True,False,relation_extraction
+openalex,semantic_scholar_f2b44cd275df11221a4d1e2631ff73bb1f6b9aac,Using Prior Knowledge to Guide BERT’s Attention in Semantic,2024,0.0,True,True,True,False,semantic_similarity
+openalex,semantic_scholar_cb4c49ac3a192d9c129d928e31fd7b410e091e8e,BERT-ASC: Auxiliary-Sentence Construction for Implicit Aspect Learning,2024,0.46,True,True,True,False,text_classification
+openalex,semantic_scholar_9942bec471145215ed3d3455e53c0218221ded6d,BERT Fine-Tuning for Sentiment Analysis on Indonesian Mobile Apps Reviews,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_a54a72601f862517ce38984522a39e77cb9f4b3d,TheThirty-SixthAAAIConferenceonArtificialIntelligence(AAAI-22),2024,0.37,True,True,True,False,text_classification
+openalex,semantic_scholar_c30b457fdfb0623b87379de79ffaa570a7f3bb48,Neural Natural Language Inference Models Partially Embed Theories of,2024,0.0,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_cfc12c38a4d848ff3c4225488a2c72e7d4300f4b,Thinking about GPT-3 In-Context Learning for Biomedical IE?,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_c50a909e20bd07f4aea09dc6dae539b45b406a96,Evaluation of BERT and ALBERT Sentence,2024,0.49,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_d20bcf41b772ea31a8ddd20317ee99fe7e1f32ca,Fine-Tuned Transformers Show Clusters of,2024,0.44,True,True,True,False,text_classification
+openalex,semantic_scholar_9985cdc3ff93528daff6b026489058c0afbf6a13,Artificial Intelligence and Law (2022) 30:417–473,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_d4bf2cb0dba48f54614f79595587f06bdbfb2e4c,Efficient Fine-Tuning of BERT Models on the Edge,2024,0.39,True,True,True,False,question_answering
+openalex,semantic_scholar_b2785e5467b34f1de5823e306779fa9e969dd118,International Journal of Advances in Intelligent Informatics ISSN 2442-6571,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_e8cd5269c8ffd37356a756af2204ba64773881d5,Detecting Fake Online Reviews using Fine-tuned BERT,2024,0.58,True,True,True,False,text_classification
+openalex,semantic_scholar_91a196e70c6ba45ac0f5808364535d1e2033564c,RESCOREBERT:DISCRIMINATIVESPEECHRECOGNITIONRESCORINGWITHBERT,2024,0.0,True,True,True,False,relation_extraction
+openalex,semantic_scholar_f781fbb5d52ad87be5f6b263f154c1f299f4e884,Talaat Journal of Big Data (2023) 10:110 Journal of Big Data,2024,0.49,True,True,True,False,text_classification
+openalex,semantic_scholar_99ca297ef516e948924f1a455e46606284e37982,Meta Fine-Tuning Neural Language Models for Multi-Domain Text,2024,0.12,True,True,True,False,text_classification
+arxiv,arxiv_2512.12677v1,FINE-TUNING CAUSAL LLMS FOR TEXT CLASSIFICATION:,2024,0.54,True,True,True,False,text_classification
+openalex,semantic_scholar_57a1258571a21817d89197dc84c986861fb6e580,Measuring and Improving BERT’s Mathematical Abilities by Predicting,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_91ac65431b2dc46919e1673fde67671c29446812,"When BERT Plays the Lottery, All Tickets Are Winning",2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_b000b13fe83df45a6bd16420f0440d36b32cc0e4,Fake News Detection: Comparative Evaluation of,2024,0.7,True,True,True,False,text_classification
+openalex,semantic_scholar_db7e62fc83ff97979289832d4c8709396399cc7f,Vakili et al. BMC Medical Informatics and,2024,0.22,True,True,True,False,relation_extraction
+openalex,semantic_scholar_dd643a30de6ef41b552e99434f874a75858d1b59,End-to-End Neural Network Compression via 1,2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_9d7774f5188c270e2dd4aab512e616509d3a41a3,Journal of Digital Imaging (2023) 36:164–177,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_df057d8d4346e938ea6e377065a47ee03e9e67be,The Multilingual Amazon Reviews Corpus,2024,0.37,True,True,True,False,ner
+openalex,semantic_scholar_ce106590145e89ea4b621c99665862967ccf5dac,2v88160.0191:viXra,2024,0.1,True,True,True,False,text_classification
+openalex,semantic_scholar_91f4184b4f6e177ab35fd8c8cc67a8a66e2e46a0,EN-60 JURNAL NASIONAL TEKNIK ELEKTRO DAN TEKNOLOGI INFORMASI,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_8b8c29c0cbb6cbae26b930840396596dd5806f33,Common Sense or World Knowledge? Investigating Adapter-Based,2024,0.18,True,True,True,False,relation_extraction
+arxiv,arxiv_2511.07044v2,"Evaluating Large Language Models for Anxiety, Depression, and",2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_06173a7bd89ff3b7c76715be8c513a352c526080,Automatic detection of fake tweets about COVID-19,2024,0.41,True,True,True,False,text_classification
+openalex,semantic_scholar_d04c572766d597fa4b8d59e5e5dce16e3a6c2a1b,TheThirty-FifthAAAIConferenceonArtificialIntelligence(AAAI-21),2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_8cdb9f975aaff5adb51cfa164199010bb9b9b6d1,Mixture-of-Partitions:,2024,0.37,True,True,True,False,question_answering
+openalex,semantic_scholar_c23d9d44e8bc68408cea9f305d1f24d915bc0d0d,Recent Advances in Natural Language Processing via Large Pre-Trained,2024,0.0,True,True,True,False,relation_extraction
+openalex,semantic_scholar_ef6948edae12eba6f1d486b8600108b9762f36ab,BAM! Born-Again Multi-Task Networks for Natural Language,2024,0.27,True,True,True,False,relation_extraction
+openalex,semantic_scholar_fb75fec3d582756e2699f2ad2121eb5fc6ba97ef,Journal of Computers in Education (2025) 12(2):645–673,2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_bbeed471a946eac19aeced258067f1534e1f1783,Cross-lingual Alignment Methods for Multilingual BERT:,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_919efc30ab8c45456ab72fb4ebeb5e25f2ad7642,BEST: BERT Pre-Training for Sign Language Recognition,2024,0.18,True,True,True,False,ner
+openalex,semantic_scholar_8baedb6c558bfea8ad9c17404f58b77368476a0f,TheThirty-FifthAAAIConferenceonArtificialIntelligence(AAAI-21),2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_a4e58681400b4f95fe3269e30b8442f2d3a834d2,www.nature.com/scientificreports,2024,0.47,True,True,True,False,text_classification
+openalex,semantic_scholar_b3b1659c992cbbd233038522ddd170887c033fe7,Mixed-Phoneme BERT: Improving BERT with Mixed Phoneme and,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_a9c3a009d754a110379574b069b48c0b4c75db40,TheThirty-FourthAAAIConferenceonArtificialIntelligence(AAAI-20),2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_9a4a6df86f7096fbd16a19708b500db87feedd4e,"ReceivedAugust6,2020,acceptedOctober6,2020,dateofpublicationOctober12,2020,dateofcurrentversionNovember3,2020.",2024,0.31,True,True,True,False,text_classification
+openalex,semantic_scholar_da420c73bd3cee3d8a97a8ddacc4efcf2d7f5c9d,Implementing BERT and fine-tuned RobertA to detect AI,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_f67fcbb1aec92ae293998ddfd904f61a31bef334,TheThirty-FourthAAAIConferenceonArtificialIntelligence(AAAI-20),2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_f9d01f8ab34bb707afdee382350f7ce23534c2d9,AraLegal-BERT: A pretrained language model for Arabic Legal text,2024,0.08,True,True,True,False,text_classification
+openalex,semantic_scholar_cdcffb2f1678d7252bfd9b902d3cd676a5217005,Robust Transfer Learning with Pretrained Language Models through,2024,0.32,True,True,True,False,text_classification
+arxiv,arxiv_2602.03563v2,ACL: Aligned Contrastive Learning Improves BERT and Multi-exit BERT,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_48a858ea4ad3a667a5feed1d0aa27c0e95aaa6f6,TopoBERT: Plug and Play Toponym Recognition Module,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_d5ca050b74c7e44cbd3df21122271db959b74324,Jurnal JTIK (Jurnal Teknologi Informasi dan Komunikasi) 8 (2) 2024,2024,0.15,True,True,True,False,text_classification
+openalex,semantic_scholar_a221def07d3cd4f29c38234e271faf8a523e0f5a,Towards Unified Prompt Tuning for Few-shot Text Classification,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_f6245b3e6270e4dc2e279c4b728030523dffcff4,LEGAL-BERT: The Muppets straight out of Law School,2024,0.34,True,True,True,False,question_answering
+openalex,semantic_scholar_b8eb9c3a707fcebd2d3a73546ebb5b4e19b10154,"ReceivedJune9,2021,acceptedJune19,2021,dateofpublicationJune24,2021,dateofcurrentversionJuly2,2021.",2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_8ce9b1e527c4d9d15239621ec4e3ef3fbbe32202,On the Role of Bidirectionality in Language Model Pre-Training,2024,0.08,True,True,True,False,text_classification
+openalex,semantic_scholar_f09f701a20b931ba9f18a4c38b0d30f98b75affd,"ReceivedOctober31,2019,acceptedNovember13,2019,dateofpublicationNovember18,2019,",2024,0.23,True,True,True,False,text_classification
+openalex,semantic_scholar_a3ef6ee560e93e6f58be2b28f27aed0eb86dc463,Fine-tune BERT with Sparse Self-Attention Mechanism,2024,0.37,True,True,True,False,text_classification
+openalex,semantic_scholar_a625de2fe477f169b49138c3307a14f8ef0e1093,EAI Endorsed Transactions,2024,0.18,True,True,True,False,text_classification
+openalex,semantic_scholar_8b0a0f6d1cd6f3aa9b54be45d5127bb016a98171,The birth of Romanian BERT,2024,0.37,True,True,True,False,text_classification
+openalex,semantic_scholar_b6a587d0aba6f5fb3872c0514fcc3a2623eebf7d,GlossBERT: BERT for Word Sense Disambiguation,2024,0.46,True,True,True,False,question_answering
+openalex,semantic_scholar_526cae4863eb15b5bc39112449c2d5fdf1db85b2,Multilingual Constituency Parsing with Self-Attention and Pre-Training,2024,0.12,True,True,True,False,ner
+openalex,semantic_scholar_c80436a9d7ec5d832e4875c89829294fc25841fd,Effectiveness of Pre-training for Few-shot Intent Classification,2024,0.22,True,True,True,False,relation_extraction
+openalex,semantic_scholar_c30305ffaedf0a5500ef639b14c76cbb8fb236c7,"(IJACSA) International Journal of Advanced Computer Science and Applications,",2024,0.49,True,True,True,False,text_classification
+openalex,semantic_scholar_8edf070ee55db69f06b43fb46b055182837598f7,On the Sentence Embeddings from Pre-trained Language Models,2024,0.24,True,True,True,False,semantic_similarity
+openalex,semantic_scholar_be16e643ed6cead716df162c4ac0806a2cdf52b0,2019/10/16 医疗大数据挖掘,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_be79d671564ad0abb5e00f71b06f3470c8b52c94,"ReceivedJune11,2021,acceptedJune23,2021,dateofpublicationJune28,2021,dateofcurrentversionJuly9,2021.",2024,0.4,True,True,True,False,text_classification
+openalex,semantic_scholar_c80f6f1cc4d05068e5f564c61450c9f192ea7a52,Knowledge Enhanced Masked Language Model for Stance Detection,2024,0.45,True,True,True,False,text_classification
+openalex,semantic_scholar_8985c0f900dfa9bf1ab6bcda594195f6c754dc94,Czert – Czech BERT-like Model for Language Representation,2024,0.51,True,True,True,False,ner
+openalex,semantic_scholar_f2cd02c03d0169374442d9bc227c9aed178f4b20,GPT-RE: In-context Learning for Relation Extraction,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_f07bcf49a92e09437359be788bbe3f9237c5ec40,A Closer Look at How Fine-tuning Changes BERT,2024,0.34,True,True,True,False,text_classification
+openalex,semantic_scholar_84059eba69c02bd57b6b227710ba62168ade827e,Syntactic Data Augmentation Increases,2024,0.0,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_c6c01f64dfc63398b9c886fd05aab0e6c287bf1a,JOURNAL OF MEDICAL INTERNET RESEARCH Stojanov et al,2024,0.34,True,True,True,False,ner
+openalex,semantic_scholar_e84a0ca59da753417225f84a1d4dd1b21891652b,Community pooling: LDA topic modeling in Twitter,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_9b3fa3a80afdb6d34984307e457656420e60e7e7,Should You Mask 15% in Masked Language Modeling?,2024,0.2,True,True,True,False,question_answering
+openalex,semantic_scholar_d78aed1dac6656affa4a04cbf225ced11a83d103,Revealing the Dark Secrets of BERT,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_f34cc7196aae582b75590ea38d021e9cb7caa02a,Fine-tuning BERT for Low-Resource Natural Language Understanding,2024,0.19,True,True,True,False,text_classification
+arxiv,arxiv_2601.09722v1,ADMEDTAGGER: AN ANNOTATION FRAMEWORK FOR,2024,0.39,True,True,True,False,ner
+openalex,semantic_scholar_f08cebd0b795bc1520f1a868c729abecfb666f04,L3Cube-IndicSBERT: A simple approach for learning cross-lingual,2024,0.12,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_d462c6fa8e4858eba9140b57268a53a243a7585e,"Less Annotating, More Classifying: Addressing the",2024,0.0,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_b483694693f087827f966c390fe3878b39712334,Pre-Training BERT on Domain Resources for Short Answer Grading,2024,0.27,True,True,True,False,relation_extraction
+openalex,semantic_scholar_eecd7b3394fc68901db974a2ff8f950c3a7a7705,BERT-ERC: Fine-tuning BERT is Enough for Emotion Recognition in,2024,0.41,True,True,True,False,text_classification
+openalex,semantic_scholar_a1db648f6254e75d0a6da67d5ca91f1050cc35ee,Cross-lingual Fine-tuning for Abstractive Arabic Text Summarization,2024,0.0,True,True,True,False,text_classification
+arxiv,arxiv_2511.01941v1,Detecting Vulnerabilities from Issue Reports for,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_e0267c6bee62dbd00c2e3f91ec93d3765d3d723d,Sentiment analysis of hotel online reviews,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_c5cc2340766d68ece08bb1520d357bcf8c03ad48,The Right Tool for the Job: Matching Model and Instance Complexities,2024,0.31,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_b2fd96a52ded7a64f60c1e54f5bb488c787629c0,What Happens To BERT Embeddings During Fine-tuning?,2024,0.37,True,True,True,False,question_answering
+openalex,semantic_scholar_dea3b07c92017525f443b527824dff502e5ed590,Backdoor Pre-trained Models Can Transfer to All,2024,0.12,True,True,True,False,text_classification
+openalex,semantic_scholar_d4d37ad448e845552583658cc2c3928c82b7045b,Towards BERT-based Automatic ICD Coding:,2024,0.47,True,True,True,False,text_classification
+openalex,semantic_scholar_d3cacb4806886eb2fe59c90d4b6f822c24ff1822,Visualizing and Understanding the Effectiveness of BERT,2024,0.34,True,True,True,False,text_classification
+openalex,semantic_scholar_9181f1292e0eaa33d92bf8820cae825342b8db2a,Few-Shot Tabular Data Enrichment Using Fine-Tuned Transformer,2024,0.41,True,True,True,False,text_classification
+openalex,semantic_scholar_c437b1f260f294af628483d77a49239fa613aa89,PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS,2024,0.2,True,True,True,False,text_classification
+arxiv,arxiv_2509.07622v1,MaLei at MultiClinSUM: Summarisation of Clinical,2024,0.12,True,True,True,False,semantic_similarity
+arxiv,arxiv_2603.20079v1,Predicting States of Understanding in Explanatory Interactions,2024,0.27,True,True,True,False,text_classification
+arxiv,arxiv_2604.21395v2,Supervised Learning Has a Necessary Geometric Blind Spot:,2024,0.16,True,True,True,False,text_classification
+openalex,semantic_scholar_c57298fe3faf87f9f24414821b0df7ebb7634320,A Surprisingly Robust Trick for the Winograd Schema Challenge,2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_fd6ade42ad3e0b9ffe418a37c4cb4b16346d90b7,Data Contamination: From Memorization to Exploitation,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_cf5e670a79847d9be0eb185fb372d99d30d4d98f,"Adapt-and-Distill: Developing Small, Fast and Effective",2024,0.31,True,True,True,False,text_classification
+arxiv,arxiv_2602.02952v2,UAT-LITE: Inference-Time Uncertainty-Aware Attention for Pretrained,2024,0.23,True,True,True,False,question_answering
+openalex,semantic_scholar_9926ba04d74609625694440357dc841299107549,1v65411.2122:viXra,2024,0.65,True,True,True,False,question_answering
+openalex,semantic_scholar_e36caccdeb4d85842e46363b0938ef0235a8db6c,Neural Media Bias Detection Using Distant Supervision With BABE - Bias,2024,0.22,True,True,True,False,text_classification
+openalex,semantic_scholar_dc89a8b66630e1af2c9715ec8f94e863fd289a31,Jointly Fine-Tuning “BERT-like” Self Supervised Models to Improve,2024,0.29,True,True,True,False,text_classification
+openalex,semantic_scholar_e1392ce545ecb839e92cf2587161a446c99019e6,TheThirty-FifthAAAIConferenceonArtificialIntelligence(AAAI-21),2024,0.54,True,True,True,False,text_classification
+openalex,semantic_scholar_f91cc0dccd52e1de92d54472d983803febafdf23,Exploring linguistic feature and model combination for speech recognition,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_94f5bf97725424ab9672273179238050440736cd,Enhancing BERT for Lexical Normalization,2024,0.0,True,True,True,False,ner
+arxiv,arxiv_2510.01644v2,Machine Learning for Detection and Analysis of,2024,0.0,True,True,True,False,relation_extraction
+openalex,semantic_scholar_823fe74822ffadefc11987632c49758e47e94c8c,Relation classification via BERT with piecewise,2024,0.19,True,True,True,False,relation_extraction
+openalex,semantic_scholar_c375e121926db9551f224ff235018ea38bb159b7,BinaryBERT: Pushing the Limit of BERT Quantization,2024,0.5,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_eaea866271ce0bdf1b9bf8e11581a66ec58806c6,DisSent: Learning Sentence Representations from Explicit Discourse,2024,0.17,True,True,True,False,natural_language_inference
+openalex,semantic_scholar_aa6ba4ade170abfb6c6c99d3ab5f1957b6ccec83,Federated Foundation Models: Privacy-Preserving and,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_a91b90953781bbb6af21f744d486f0499be84543,Noisy Text Data: Achilles’ Heel of BERT,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_fac4f33e6b1ec4e62c05d787b8f3e7af1a7bceff,ConvAI at SemEval-2019 Task 6: Offensive Language Identification and,2024,0.24,True,True,True,False,relation_extraction
+arxiv,arxiv_2511.23235v1,TOURISM QUESTION ANSWER SYSTEM IN INDIAN LANGUAGE,2024,0.23,True,True,True,False,question_answering
+openalex,semantic_scholar_9927a15ddf5313d97c98f0111fd191caf507ce72,HateBERT: Retraining BERT for Abusive Language Detection in English,2024,0.46,True,True,True,False,relation_extraction
+openalex,semantic_scholar_d9b824dbecbe3a1f0b1489f9e4521a532a63818d,Compressing BERT: Studying the Effects,2024,0.22,True,True,True,False,ner
+openalex,semantic_scholar_f46f9683925e32177802933b494d6f93835c69cc,GAN-BERT: Generative Adversarial Learning for,2024,0.19,True,True,True,False,text_classification
+openalex,semantic_scholar_a2f38d03fd363e920494ad65a5f0ad8bd18cd60b,Domain-Specific Language Model Pretraining for Biomedical,2024,0.19,True,True,True,False,ner
+openalex,semantic_scholar_b2d8664beebb50958184c97b65dafcca8809fcf5,Fine-tuning Pretrained Multilingual BERT Model,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_18071ae0145d6eed4fb01aa75c41689abe4e8996,"ReceivedJune24,2020,acceptedJuly23,2020,dateofpublicationJuly28,2020,dateofcurrentversionAugust7,2020.",2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_ca3d180f2f6da6bdc4b8389e2755ea554826492f,Aum and Choe Syst Rev (2021) 10:285,2024,0.08,True,True,True,False,text_classification
+openalex,semantic_scholar_ad17316915298103c59f2ce5bc97001dd9611409,Clinical Trial Information Extraction with BERT,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_f2f3c83db919a2429c4fcad2d0a0ed4e5294354a,Recall and Learn: Fine-tuning Deep Pretrained Language Models with,2024,0.1,True,True,True,False,text_classification
+openalex,semantic_scholar_d2a42864605a502325a874bc470481ca1904ea0a,Accurate Neural Network Pruning Requires,2024,0.26,True,True,True,False,text_classification
+openalex,semantic_scholar_cd2d15f3bb8e05fa9d294fc2104651133efac4a0,Evaluating Unsupervised Representation Learning,2024,0.55,True,True,True,False,relation_extraction
+openalex,semantic_scholar_cc4db47a416aba22d1073e59a6867b6997928b7c,"What does BERT know about books, movies and music? Probing",2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_c39e409d6b7744200c4fd12a6b81e51f6145cfae,Unsupervised Domain Adaptation of Contextualized Embeddings for,2024,0.0,True,True,True,False,relation_extraction
+openalex,semantic_scholar_a3e4ceb42cbcd2c807d53aff90a8cb1f5ee3f031,SPECTER: Document-level Representation Learning using,2024,0.24,True,True,True,False,text_classification
+openalex,semantic_scholar_be283fc67ecbfe0cb1e50718181ce7b9c0d53a74,How Does BERT Answer Questions?,2024,0.2,True,True,True,False,question_answering
+openalex,semantic_scholar_a2974f9a851f2eef6da55dd591b164589d113c6e,To BERT or Not to BERT: Comparing Task-specific and Task-agnostic,2024,0.32,True,True,True,False,ner
+openalex,semantic_scholar_ef5195b8b50cb6c4b1af1a457386ae10829b797b,Automated Scoring for Reading Comprehension,2024,0.2,True,True,True,False,question_answering
+openalex,semantic_scholar_8592983238261838603caf503def12d3396de710,In Plain Sight: Media Bias Through the Lens of Factual Reporting,2024,0.08,True,True,True,False,text_classification
+arxiv,arxiv_2510.09097v1,Semantic Frame Induction using Causal Language Models,2024,0.24,True,True,True,False,text_classification
+arxiv,arxiv_2603.14130v1,The GELATO Dataset for Legislative NER,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_fe3e66445d364b54b677e4d05b36ed6abdc057f2,RoChBert: Towards Robust BERT Fine-tuning for Chinese,2024,0.0,True,True,True,False,text_classification
+openalex,semantic_scholar_8fa0de4920c8edcb1fea698ff3463a347771d889,Stereotype and Skew: Quantifying Gender Bias,2024,0.07,True,True,True,False,text_classification
+openalex,semantic_scholar_f5bf1d83a4d3e55e75dcc28a7bda4e99cce85836,BERT-ATTACK: Adversarial Attack Against BERT Using BERT,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_8d7a34b1546d803c419149ce94df6dbca18bdd5f,Cardiff University at SemEval-2020 Task 6: Fine-tuning BERT for,2024,0.27,True,True,True,False,text_classification
+openalex,semantic_scholar_afeffcaeaec0a665b9852dfefb6d34dc70421793,Transfer Fine-Tuning: A BERT Case Study,2024,0.19,True,True,True,False,semantic_similarity
+openalex,semantic_scholar_ce498651107588db67adcfbb5479bdb416f4de2f,Template-Based Named Entity Recognition Using BART,2024,0.0,True,True,True,False,ner
+openalex,semantic_scholar_c570764d127bed9b9a1e5e0b83ba3a7b57043131,Adapting BERT for Word Sense Disambiguation with,2024,0.39,True,True,True,False,text_classification
+openalex,semantic_scholar_d0086b86103a620a86bc918746df0aa642e2a8a3,Language Models as Knowledge Bases?,2024,0.0,True,True,True,False,question_answering
